@@ -1,6 +1,6 @@
 # marketing-ai-startup
 
-# A Marketing AI Startup App in Javascript
+# A Marketing AI Startup App in Javascript coming soon
 
 ## Tools
 
