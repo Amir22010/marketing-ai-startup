@@ -4,6 +4,8 @@
 
 ## Tools
 
-- nodejs
+- React
 - postgressql
 - tensorflowjs
+- firebase
+- stripe
